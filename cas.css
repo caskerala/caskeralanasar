@@ -1,5 +1,5 @@
 .header{
-    background-color: #063006;
+    background-color: #054b05;
     width: 100%;
     height: 1000px;
 }
@@ -16,23 +16,33 @@ body{
 
 .logo-text{
     color: #fff;
-    font-size: 38px;
+    font-size: 30px;
     font-weight: bold;
     text-decoration: none;
-    font-family: Helvetica Neue Arial Arial, Helvetica, sans-serif;
-    margin-left: 170px;
+    margin-left: 200px;
     
 }
 
 .video{
-    margin-left: 200px;
-    border: #fff;
-    margin-top: 20px;
+    margin-left: 450px;
+    font-size: 35px;
+
+
     
     
 }
 
-.Live-video{
-    margin-top: 20px;
-    margin-left: 100px;
+.nasar{
+    
+    color: #f7f1f1;
+    font-size: 40px;
+    color: #f5f0f0;
+    margin-top: 30px;
+    margin-left: 200px;
+    font-weight: 600;
+    
+}
+
+.oldclass{
+    color: #fff;
 }
